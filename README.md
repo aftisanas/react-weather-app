@@ -4,7 +4,7 @@ Building a weather app using React and the OpenWeatherMap API. Implemented user-
 
 ## installation
 
-1. Clone the repository: git clone https://github.com/aftisanas/ShopTheme.git
+1. Clone the repository: git clone [weather-app Repository](https://github.com/aftisanas/weather-app.git)
 2. Install dependencies: npm install or yarn install
 3. Start the development server: npm start or yarn start
 
